@@ -1,0 +1,16 @@
+# Web Framework & API
+fastapi
+uvicorn
+python-multipart
+
+# AI & Computer Vision
+ultralytics
+opencv-python
+torch
+torchvision
+
+# Data & Utilities
+numpy
+pandas
+pillow
+python-dotenv
