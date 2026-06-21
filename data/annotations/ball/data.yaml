@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['-', 'cricket ball', 'undefined']
+
+roboflow:
+  workspace: cric
+  project: cricket-ball-detection-ns4rc
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cric/cricket-ball-detection-ns4rc/dataset/1
