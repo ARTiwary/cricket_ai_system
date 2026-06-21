@@ -1,0 +1,26 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# --- Datasets (CRITICAL) ---
+# Never track the raw videos or processed frames
+data/raw/
+data/annotations/
+*.mp4
+*.avi
+*.mov
+
+# --- Model Checkpoints ---
+# Don't track trained model weights
+*.pt
+*.pth
+weights/
+
+# --- IDE/System ---
+.vscode/
+.DS_Store
+.ipynb_checkpoints/

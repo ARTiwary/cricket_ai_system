@@ -274,6 +274,6 @@ Feel free to contribute and help build the future of cricket intelligence.
 
 ### 🏏 Building the Future of Cricket Analytics with AI 🚀
 
-*"Every frame tells a story. Our goal is to teach AI how to read it."*
+*"Every frame tells a story. The goal is to teach AI how to read it."*
 
 </div>
